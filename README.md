@@ -1,6 +1,6 @@
 # React -- Business Card
 
-This is a business card made in React JS.
+This is a simple business card made with React JS.
 
 ## Table of contents
 
@@ -23,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](src/images/Screenshot_1.png)
 ![](src/images/Screenshot_2.png)
 
 
 ### Links
 
-- Live Site URL: [https://lidijaal.github.io/reactBusinessCard/](https://lidijaal.github.io/reactBusinessCard/)
+- Live Site URL: [https://lidijaalreactbusinesscard.netlify.app/](https://lidijaalreactbusinesscard.netlify.app/)
 
 
 ## My process
